@@ -1,0 +1,269 @@
+
+
+body {
+	background-image:url("../images/confetti.gif");
+}
+
+select{
+    font-weight: bold;
+}
+
+#header {
+	height:500px;
+	background-image:url("../images/logo.png");
+	background-size: 100%;
+	background-repeat:no-repeat;
+}
+
+#header1 {
+	height:350px;
+	background-image:url("../images/logo.png");
+	background-size: 100%;
+	background-repeat:no-repeat;
+	margin-bottom:40px;
+}
+
+#row1 {
+	height:120px;
+}
+
+#topbar {
+	background-color:black;
+	height:80px;
+}
+
+#emailfield {
+	position: absolute;
+	left:68%;
+	top:25px;
+	width:200px;
+	height:30px;
+	border-style:solid;
+	border-color:#5ea7cb;
+	border-width:2px;
+	font-size:16px;
+	font-family:arial;
+}
+
+#passwordfield {
+	position: absolute;
+	left:80%;
+	top:25px;
+	width:200px;
+	height:30px;
+	border-style:solid;
+	border-color:#5ea7cb;
+	border-width:2px;
+	font-size:16px;
+	font-family:arial;
+}
+
+#loginbutton {
+	position:absolute;
+	left:92%;
+	top:25px;
+	height:30px;
+	width:100px;
+	font-size:16px;
+	background-color:#1f3b72;
+	border-style:solid;
+	border-color:white;
+	border-width:1px;
+	color:white;
+	font-family:arial;
+	font-weight:bold;
+}
+
+#create {
+	font-weight:bold;
+	color:#5ea7cb;
+	font-size:20px;
+	font-family:arial;
+}
+
+#notregistered{
+	font-weight:bold;
+	color:white;
+	font-size:20px;
+	font-family:arial;
+	margin-top:25px;
+	margin-left:-300px;
+}
+
+#row6 {
+	height:20px;
+}
+
+legend {
+	color:black;
+	font-family:arial;
+	font-weight:bold;
+	font-size:36px;
+}
+
+fieldset{
+	color:black;
+	font-family:arial;
+	font-weight:bold;
+	font-size:20px;
+}
+
+#first, #last, #email, #password {
+	border-style:solid;
+	border-color:#1f3b72;
+	border-width:2px;
+	width:400px;
+	font-family:arial;
+}
+
+#photo1{
+	background-image:url("../images/giftcard.gif");
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height:450px;
+	width:450px;
+	border-style:solid;
+	border-color:#1f3b72;
+	border-width:2px;
+	margin-left:100px;
+	margin-top:50px;
+}
+
+#created {
+	background-color:#1f3b72;
+	border-style:solid;
+	border-color:black;
+	border-width:2px;
+	color:white;
+	width:200px;
+	height:50px;
+	margin-top:-10px;
+}
+
+#logo {
+	background-image:url("../images/logo.png");
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height:300px;
+	margin-bottom:50px;
+}
+
+#row10 {
+	height:30px;
+}
+
+#panel, #addcard, #searchcard, #alerts, #searchresults, #buycard {
+	background-color:black;
+	opacity:0.8;
+}
+
+#panelhead, #addcardhead, #addCardBtn, #searchCardBtn, #searchcardhead, #alertshead, #searchhead, #offercard, #buycardhead, #buyCardBtn {
+	background-color:#1f3b72;
+}
+
+#field1, #field2, #field3, #field4 {
+	font-size:16px;
+}
+
+#row13, #row15{
+	height:40px;
+}
+
+label{
+	font-size:16px;
+	font-weight:normal;
+}
+
+#addcard, #searchcard, #alerts, #buycard {
+	height:400px;
+}
+
+#row12 {
+	margin-top:-30px;
+}
+
+
+#card1, #card2, #card3, #card4, #card5, #card6, #card7, #card8, #card9, #card10, #card11, #card12, #card13, #card14, #card15, #card16, #card17, #card18, #card19, #card20 {
+	width:100%;
+	border-style:solid;
+	border-color:black;
+	border-width:1px;
+	margin-bottom:25px;
+}
+
+h1 {
+	color:white;
+	font-size:50px;
+	text-align: center;
+	font-family:Arial;
+}
+
+#testimonial1, #testimonial2 {
+	width:100%;
+}
+
+#testimonials{
+	height:570px;
+	background-color:black;
+	opacity:0.8;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+#space1{
+	height:30px;
+}
+
+#aboutus1{
+	background-color:black;
+	opacity:0.8;
+	padding:10px;
+	padding-bottom:15px;
+	text-align: justify;
+	margin-top:-20px;
+	margin-bottom:50px;
+	line-height: 1.5;
+}
+
+h3{
+	font-size:20px;
+	font-family:Arial;
+}
+
+#about {
+	width:100%;
+}
+
+#waiting1, #waiting2, #waiting3 {
+	font-family:Arial;
+	font-size:40px;
+	opacity:0;
+}
+
+#waiting2 {
+	color:red;
+	font-weight:bold;
+}
+
+#result2, #result3, #result4, #result5, #result6 {
+	font-size:25px;
+}
+
+#result1 {
+	font-size:35px;
+}
+
+#result1, #result3, #result5 {
+	color:red;
+	font-weight:bold;
+}
+
+#buttongif {
+	opacity:1;
+	width:150px;
+	margin-left:90px;
+}
+
+#wideaddcard, #widealerts {
+	height:600px;
+}
